@@ -1,3 +1,2 @@
-# mysql procedure
-
-java 调用 Mysql 存储过程
+# procedure
+Java 调用 Mysql 存储过程调用
